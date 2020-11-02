@@ -1,2 +1,2 @@
 # weiqiuzhi.github.io
-website
+WebSite
